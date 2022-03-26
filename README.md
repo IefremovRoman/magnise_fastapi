@@ -1,0 +1,1 @@
+# magnise_fastapi
